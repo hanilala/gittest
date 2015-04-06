@@ -7,3 +7,5 @@ Git tracks changes of the files.
 
 Creating a new branch is quick.
 
+
+静水长流，不要坐等胜利的到来. :dog: :pig:
