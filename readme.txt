@@ -8,3 +8,4 @@ Git tracks changes of the files.
 
 Creating a new branch is quick and simple.
 
+Switched to a new branch 'dev'
